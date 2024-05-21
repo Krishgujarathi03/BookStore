@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "title": "The Shining",
+    "category": "Horror",
+    "price": 349,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "2",
+    "title": "Harry Potter",
+    "category": "Fantasy",
+    "price": 0,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "3",
+    "title": "The Revenge 1984",
+    "category": "Dystopian",
+    "price": 229,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "4",
+    "title": "The Hobbit",
+    "category": "Fantasy",
+    "price": 249,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "5",
+    "title": "Dracula",
+    "category": "Horror",
+    "price": 169,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "6",
+    "title": "The Adventures of Sherlock Holmes",
+    "category": "Mystery",
+    "price": 0,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "7",
+    "title": "The Adventures of Tintin",
+    "category": "Comics",
+    "price": 199,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "8",
+    "title": "Murder on the Orient Express",
+    "category": "Mystery",
+    "price": 99,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "9",
+    "title": "Frankenstein",
+    "category": "Horror",
+    "price": 119,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "10",
+    "title": "Dune",
+    "category": "Science Fiction",
+    "price": 0,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "11",
+    "title": "The Amazing Spider-Man",
+    "category": "Comics",
+    "price": 79,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "12",
+    "title": "Alice's Adventures in Wonderland",
+    "category": "Fantasy",
+    "price": 99,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "013",
+    "title": "Pride and Prejudice",
+    "category": "Romance",
+    "price": 159,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "014",
+    "title": "The Great Gatsby",
+    "category": "Classics",
+    "price": 199,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "015",
+    "title": "Moby Dick",
+    "category": "Adventure",
+    "price": 0,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "016",
+    "title": "War and Peace",
+    "category": "Historical Fiction",
+    "price": 249,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "017",
+    "title": "To Kill a Mockingbird",
+    "category": "Classics",
+    "price": 89,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "018",
+    "title": "The Catcher in the Rye",
+    "category": "Classics",
+    "price": 99,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "019",
+    "title": "Brave New World",
+    "category": "Science Fiction",
+    "price": 99,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "020",
+    "title": "The Lord of the Rings",
+    "category": "Fantasy",
+    "price": 299,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "021",
+    "title": "The Chronicles of Narnia",
+    "category": "Fantasy",
+    "price": 289,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "022",
+    "title": "The Hunger Games",
+    "category": "Dystopian",
+    "price": 119,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "023",
+    "title": "Percy Jackson and the Olympians",
+    "category": "Fantasy",
+    "price": 0,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "024",
+    "title": "Goodnight Moon",
+    "category": "Children",
+    "price": 49,
+    "img": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww"
+  }
+]
